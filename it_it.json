@@ -8,7 +8,7 @@
   "generalUnknownHash": "Il tuo account usa un algoritmo sconosciuto, per favore segnala questo problema ad un admin.",
   "loginTriesExceeded": "Hai superato il numero massimo di tentativi per il login (%max%).",
   "loginFail": "Accesso negato! Password errata!",
-  "loginSuccess": "Hai già effettuato l'accesso!",
+  "loginSuccess": "Ti sei autenticato con successo!",
   "changeFail": "Impossibile effettuare l'operazione: password non valida!",
   "changeSuccess": "Password modificata correttamente!",
   "logoutFail": "Impossibile uscire! Errore %error%",
